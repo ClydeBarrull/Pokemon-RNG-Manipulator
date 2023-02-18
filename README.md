@@ -1,2 +1,3 @@
 # Pokemon-RNG-Manipulator
 Ceci est ma veille technologique que j'ai réalisé en parallèle de mes cours. Le sujet porte sur la compréhension et la manipulation de la pseudo-aléatoire dans les jeux Pokémon de 3ème génération
+Vous trouverez sur ce repos un document PDF, une explication d'une trentaine de page portant sur la compréhension du sujet accompagnés d'exemples. Vous trouverez également un programme python que j'ai réalisé à côté pour m'aider dans mon étude et que vous pouvez essayer vous-même, ainsi qu'un excel contenant des macros codées en VBA pour aider à la compréhension de certains éléments du sujet.
